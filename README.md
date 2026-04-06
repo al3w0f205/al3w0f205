@@ -50,8 +50,10 @@ I'm a Software Engineering student, in Quito who enjoys building things from scr
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=al3w0f205&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3w0f205&layout=compact&theme=dark&bg_color=0D1117&hide_border=true" height="150" alt="Top Languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=al3w0f205&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/al3w0f205)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al3w0f205&layout=compact&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/al3w0f205)
+
 </div>
 
 ---
