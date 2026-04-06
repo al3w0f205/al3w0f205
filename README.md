@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm al3w0f205
 
-**Engineering student · Quito, Ecuador · he/him**
+**Engineering student · Quito, Ecuador · He/Him**
 
 </div>
 
