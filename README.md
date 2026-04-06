@@ -13,6 +13,12 @@
   </tr>
 </table>
 
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
+![Spanish](https://img.shields.io/badge/Español-Native-brightgreen?style=flat-square)
+![English](https://img.shields.io/badge/English-B2_Cambridge-blue?style=flat-square)
+
 </div>
 
 ---
@@ -64,6 +70,16 @@ When I'm not in class, I'm probably SSH'd into something.
 
 ---
 
+### 🎯 Goals for 2026
+
+- Land my first internship or freelance project in backend/DevOps
+- Containerize my entire Proxmox homelab with Docker
+- Contribute to at least one open source project
+- Build and ship a complete web app from scratch
+- Get comfortable with a frontend framework (React or Vue)
+
+---
+
 ### 💡 A few things about me
 
 - Studying Software Engineering at **[UDLA](https://www.udla.edu.ec)** — Quito, Ecuador
@@ -74,6 +90,23 @@ When I'm not in class, I'm probably SSH'd into something.
 
 ---
 
+### 🎧 Setup & music
+
+    OS      →  Ubuntu 22.04 (LXC on Proxmox)
+    Editor  →  VS Code
+    Shell   →  Bash
+    Music   →  whatever keeps me in flow state — metal, lo-fi, or complete silence
+
+---
+
+> *"The best way to learn is to build something you actually care about."*
+
+---
+
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
+
 <sub>📍 Quito, Ecuador · always learning, always building · open to collaborating on interesting projects</sub>
+
 </div>
