@@ -17,7 +17,6 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/al3w0f/)
 [![Discord](https://img.shields.io/badge/Discord-al3w0f-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/457026491197292546)
 </div>
@@ -36,9 +35,9 @@ I'm a Software Engineering student, in Quito who enjoys building things from scr
 
 ### 🔧 What I'm working on
 
-- **[TiendaMenu](https://github.com/al3w0f205/TiendaMenu)** — store simulation in C with interactive console menus
-- **Kora** — Discord bot with music & moderation cogs, self-hosted on Proxmox LXC
-- **GrooveOS** — personal OS/environment experiments in C
+- **[TiendaMenu](https://github.com/al3w0f205/TiendaMenu)** — Store simulation in C with interactive console menus
+- **[Kora](https://github.com/al3w0f205/pathfinder)** — Visualizador interactivo en Django, diseñado para comparar algoritmos de búsqueda de rutas en una cuadrícula.
+- **[GrooveOS](https://github.com/al3w0f205/GrooveOS-OLD-)** — personal OS/environment experiments in C
 - Exploring backend infrastructure, DevOps tooling, and automation
 
 ---
