@@ -15,15 +15,16 @@
 
 <br>
 
-<div align="center">
+**📬 Let's connect:** <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292e?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
+[![Instagram](https://img.shields.io/badge/Instagram-24292e?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/al3w0f/)
+[![Discord](https://img.shields.io/badge/Discord-al3w0f-24292e?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/457026491197292546)
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/al3w0f/)
-[![Discord](https://img.shields.io/badge/Discord-al3w0f-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/457026491197292546)
-</div>
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
-![Spanish](https://img.shields.io/badge/Español-Native-brightgreen?style=flat-square)
-![English](https://img.shields.io/badge/English-B2_Cambridge-blue?style=flat-square)
+**🗣️ Languages:** <br>
+![Spanish](https://img.shields.io/badge/Español-Native-24292e?style=flat-square)
+![English](https://img.shields.io/badge/English-B2_Cambridge-24292e?style=flat-square)
 
 </div>
 
