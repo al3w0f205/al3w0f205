@@ -2,48 +2,33 @@ name: GitHub 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 18 * * *"   # todos los días a medianoche UTC-6
+    - cron: "0 18 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate 3D Contribution Graph
+    name: generate-github-profile-3d-contrib
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "githubUserName": "al3w0f205",
-              "fileName": "profile-3d-contrib/profile-night-rainbow.svg",
-              "startForeColor": [0, 0, 0, 0],
-              "endForeColor": [88, 166, 255, 255],
-              "startBackColor": [0, 13, 33, 255],
-              "endBackColor": [0, 13, 33, 255],
-              "dotColor": [88, 166, 255, 128],
-              "calendarPadding": 2,
-              "startDate": null,
-              "contributionTypes": [
-                "commitContributionsByRepository",
-                "pullRequestContributionsByRepository",
-                "pullRequestReviewContributionsByRepository",
-                "issueContributionsByRepository",
-                "repositoryContributions"
-              ]
-            }
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: profile-3d-contrib
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated 3d contrib"; then
+            git push
+          fi
