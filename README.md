@@ -15,6 +15,13 @@
 
 <br>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/al3w0f/)
+[![Discord](https://img.shields.io/badge/Discord-al3w0f-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/457026491197292546)
+</div>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
 ![Spanish](https://img.shields.io/badge/Español-Native-brightgreen?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2_Cambridge-blue?style=flat-square)
@@ -23,9 +30,7 @@
 
 ---
 
-I'm a Software Engineering student based in Quito who enjoys building things from scratch — whether that's a low-level C program, a Python bot, or a self-hosted server stack running on my own hardware. I like understanding how things work under the hood.
-
-When I'm not in class, I'm probably SSH'd into something.
+I'm a Software Engineering student, in Quito who enjoys building things from scratch — whether that's a low-level C program, a Python bot, or a self-hosted server stack running on my own hardware. I like understanding how things work under the hood.
 
 ---
 
@@ -73,7 +78,6 @@ When I'm not in class, I'm probably SSH'd into something.
 ### 🎯 Goals for 2026
 
 - Land my first internship or freelance project in backend/DevOps
-- Containerize my entire Proxmox homelab with Docker
 - Contribute to at least one open source project
 - Build and ship a complete web app from scratch
 - Get comfortable with a frontend framework (React or Vue)
@@ -92,21 +96,19 @@ When I'm not in class, I'm probably SSH'd into something.
 
 ### 🎧 Setup & music
 
-    OS      →  Ubuntu 22.04 (LXC on Proxmox)
+    OS      →  Ubuntu 22.04 (LXC on Proxmox) | Windows 11 (25H2) 
     Editor  →  VS Code
     Shell   →  Bash
-    Music   →  whatever keeps me in flow state — metal, lo-fi, or complete silence
+    Music   →  Reggaeton, Pop, Rock, Electronic music, Alternative/independent
 
 ---
 
-> *"The best way to learn is to build something you actually care about."*
+> *"The best way to predict the future is to invent it." – Alan Kay*
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Let's_connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
-
-<sub>📍 Quito, Ecuador · always learning, always building · open to collaborating on interesting projects</sub>
+<sub>📍 Quito, Ecuador · Always learning, Always building · Open to collaborating on interesting projects</sub>
 
 </div>
