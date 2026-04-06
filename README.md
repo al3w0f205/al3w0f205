@@ -86,12 +86,10 @@ whoami:
 
 ---
 
-## 🐍 My Contributions
+## 📊 Contribution Graph
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/al3w0f205/al3w0f205/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/al3w0f205/al3w0f205/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/al3w0f205/al3w0f205/output/github-snake.svg" />
+  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/al3w0f205/al3w0f205/output/profile-night-rainbow.svg" />
 </picture>
 
 ---
