@@ -86,14 +86,6 @@ whoami:
 
 ---
 
-## 📊 Contribution Graph
-
-<picture>
-  <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
-</picture>
-
----
-
 > *"The best way to predict the future is to invent it." — Alan Kay*
 
 <div align="center">
