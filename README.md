@@ -15,6 +15,10 @@
 
 <br>
 
+**🚀 Actively seeking a Backend/DevOps internship**
+
+<br>
+
 **📬 Let's connect:** <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/al3w0f/)
@@ -40,6 +44,15 @@ I'm a Software Engineering student, in Quito who enjoys building things from scr
 - **[Kora](https://github.com/al3w0f205/pathfinder)** — Visualizador interactivo en Django, diseñado para comparar algoritmos de búsqueda de rutas en una cuadrícula.
 - **[GrooveOS](https://github.com/al3w0f205/GrooveOS-OLD-)** — personal OS/environment experiments in C
 - Exploring backend infrastructure, DevOps tooling, and automation
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=al3w0f205&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=al3w0f205&layout=compact&theme=dark&bg_color=0D1117&hide_border=true" height="150" alt="Top Languages" />
+</div>
 
 ---
 
