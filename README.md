@@ -34,7 +34,7 @@
 
 ---
 
-I'm a Software Engineering student, in Quito who enjoys building things from scratch — whether that's a low-level C program, a Python bot, or a self-hosted server stack running on my own hardware. I like understanding how things work under the hood.
+I'm a Software Engineering student, in Quito who enjoys building things from scratch — whether that's a low-level C program, a Python bot, or a self-hosted server stack running on my own hardware. I like understanding how things under the hood.
 
 ---
 
@@ -44,17 +44,6 @@ I'm a Software Engineering student, in Quito who enjoys building things from scr
 - **[Kora](https://github.com/al3w0f205/pathfinder)** — Visualizador interactivo en Django, diseñado para comparar algoritmos de búsqueda de rutas en una cuadrícula.
 - **[GrooveOS](https://github.com/al3w0f205/GrooveOS-OLD-)** — personal OS/environment experiments in C
 - Exploring backend infrastructure, DevOps tooling, and automation
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=al3w0f205&show_icons=true&theme=dark&bg_color=0D1117&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/al3w0f205)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al3w0f205&layout=compact&theme=dark&bg_color=0D1117&hide_border=true)](https://github.com/al3w0f205)
-
-</div>
 
 ---
 
