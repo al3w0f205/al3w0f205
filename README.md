@@ -1,23 +1,19 @@
 <div align="center">
 
-# Alejandro Figueroa · al3w0f205
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%26+DevOps+Enthusiast;Always+building%2C+always+learning" alt="Typing SVG" />
+</a>
 
-**Software Engineering student · Quito, Ecuador · He/Him**
+<br/><br/>
 
-<br>
-
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0">
+<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
   <tr>
-    <td><img src="assetsudla-logo.png" height="45" alt="UDLA" /></td>
+    <td><img src="assetsudla-logo.png" height="40" alt="UDLA" /></td>
     <td>&nbsp;&nbsp;<a href="https://www.udla.edu.ec">Universidad de las Américas</a> &nbsp;·&nbsp; 📍 Quito, Ecuador</td>
   </tr>
 </table>
 
-<br>
-
-🚀 **Actively seeking a Backend / DevOps internship**
-
-<br>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/al3w0f/)
@@ -29,10 +25,18 @@
 </div>
 
 ---
-
-I'm a Software Engineering student based in Quito who enjoys building things from the ground up — whether that's a low-level C program, a Python automation bot, or a self-hosted server stack running on bare metal. I care about understanding how things work under the hood.
-
-Currently focused on backend development and DevOps infrastructure, with hands-on experience managing a personal homelab on Proxmox.
+```yaml
+name: Alejandro Figueroa
+alias: al3w0f205
+role: Software Engineering Student → Backend / DevOps
+location: Quito, Ecuador
+status: Actively seeking internship
+interests:
+  - Low-level systems & C programming
+  - Python automation & bots
+  - Self-hosted infrastructure (Proxmox homelab)
+  - Backend APIs & DevOps tooling
+```
 
 ---
 
@@ -62,13 +66,13 @@ Currently focused on backend development and DevOps infrastructure, with hands-o
 
 ---
 
-## 🔧 What I'm Working On
+## 🔧 Projects
 
-| Project | Description |
-|---|---|
-| [**TiendaMenu**](https://github.com/al3w0f205/TiendaMenu) | Store simulation in C with interactive console menus |
-| [**PathFinder**](https://github.com/al3w0f205/pathfinder) | Interactive pathfinding visualizer in Django — compares search algorithms on a grid |
-| [**GrooveOS**](https://github.com/al3w0f205/GrooveOS-OLD-) | Personal OS/environment experiments in C |
+| Project | Description | Stack |
+|---|---|---|
+| [**TiendaMenu**](https://github.com/al3w0f205/TiendaMenu) | Store simulation with interactive console menus | C |
+| [**Kora**](https://github.com/al3w0f205/pathfinder) | Interactive pathfinding visualizer — compares search algorithms on a grid | Django, Python |
+| [**GrooveOS**](https://github.com/al3w0f205/GrooveOS-OLD-) | Personal OS/environment experiments | C |
 
 ---
 
@@ -80,20 +84,8 @@ Currently focused on backend development and DevOps infrastructure, with hands-o
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=al3w0f205&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=al3w0f205&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 > *"The best way to predict the future is to invent it." — Alan Kay*
 
 <div align="center">
-<sub>📍 Quito, Ecuador · Always learning, always building · Open to collaborating on interesting projects</sub>
+<sub>📍 Quito, Ecuador &nbsp;·&nbsp; Always learning, always building &nbsp;·&nbsp; Open to collaborating on interesting projects</sub>
 </div>
