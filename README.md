@@ -75,35 +75,7 @@ I'm a Software Engineering student, in Quito who enjoys building things from scr
 - **Backend web development** — APIs, databases, server-side logic
 - **Data structures & algorithms** — sharpening fundamentals for technical interviews
 
----
 
-### 🎯 Goals for 2026
-
-- Land my first internship or freelance project in backend/DevOps
-- Contribute to at least one open source project
-- Build and ship a complete web app from scratch
-- Get comfortable with a frontend framework (React or Vue)
-
----
-
-### 💡 A few things about me
-
-- Studying Software Engineering at **[UDLA](https://www.udla.edu.ec)** — Quito, Ecuador
-- I run a small Proxmox homelab at home — self-hosting is my favorite rabbit hole
-- Most of my commits happen late at night (check the contribution graph 👀)
-- I prefer the terminal over GUIs for almost everything
-- Currently surviving calculus and C workshops simultaneously
-
----
-
-### 🎧 Setup & music
-
-    OS      →  Ubuntu 22.04 (LXC on Proxmox) | Windows 11 (25H2) 
-    Editor  →  VS Code
-    Shell   →  Bash
-    Music   →  Reggaeton, Pop, Rock, Electronic music, Alternative/independent
-
----
 
 > *"The best way to predict the future is to invent it." – Alan Kay*
 
