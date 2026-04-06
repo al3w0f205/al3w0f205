@@ -89,7 +89,7 @@ whoami:
 ## 📊 Contribution Graph
 
 <picture>
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/al3w0f205/al3w0f205/output/profile-night-rainbow.svg" />
+  <img alt="3D contribution graph" src="profile-3d-contrib/profile-night-rainbow.svg" />
 </picture>
 
 ---
