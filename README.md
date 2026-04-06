@@ -28,16 +28,10 @@
 </div>
 
 ---
-```yaml
-whoami:
-  name       : Alejandro Figueroa
-  alias      : al3w0f205
-  role       : Software Engineering Student → Backend / DevOps
-  location   : Quito, Ecuador 🇪🇨
-  status     : 🚀 Actively seeking internship
-  homelab    : Proxmox · LXC · systemd · self-hosted everything
-  philosophy : "Understand it before you use it."
-```
+
+I'm a Software Engineering student based in Quito who enjoys building things from the ground up — whether that's a low-level C program, a Python automation bot, or a self-hosted server stack running on bare metal. I care about understanding how things work under the hood.
+
+Currently focused on backend development and DevOps infrastructure, with hands-on experience managing a personal homelab on Proxmox.
 
 ---
 
