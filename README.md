@@ -1,10 +1,10 @@
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Backend+%26+DevOps+Enthusiast;Always+building%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Hey%2C+I'm+Alejandro+%F0%9F%91%8B;Backend+%26+DevOps+Enthusiast;I+build+things+from+scratch;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
   <tr>
@@ -18,6 +18,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/al3w0f/)
 [![Discord](https://img.shields.io/badge/Discord-al3w0f-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/457026491197292546)
+[![Profile views](https://komarev.com/ghpvc/?username=al3w0f205&style=flat-square&color=58A6FF&label=visitors)](https://github.com/al3w0f205)
+
+<br/>
 
 ![Spanish](https://img.shields.io/badge/Español-Native-brightgreen?style=flat-square)
 ![English](https://img.shields.io/badge/English-B2_Cambridge-blue?style=flat-square)
@@ -26,16 +29,14 @@
 
 ---
 ```yaml
-name: Alejandro Figueroa
-alias: al3w0f205
-role: Software Engineering Student → Backend / DevOps
-location: Quito, Ecuador
-status: Actively seeking internship
-interests:
-  - Low-level systems & C programming
-  - Python automation & bots
-  - Self-hosted infrastructure (Proxmox homelab)
-  - Backend APIs & DevOps tooling
+whoami:
+  name       : Alejandro Figueroa
+  alias      : al3w0f205
+  role       : Software Engineering Student → Backend / DevOps
+  location   : Quito, Ecuador 🇪🇨
+  status     : 🚀 Actively seeking internship
+  homelab    : Proxmox · LXC · systemd · self-hosted everything
+  philosophy : "Understand it before you use it."
 ```
 
 ---
@@ -57,6 +58,7 @@ interests:
 ![systemd](https://img.shields.io/badge/systemd-000000?style=flat-square&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 **Currently Learning**
 
@@ -70,9 +72,9 @@ interests:
 
 | Project | Description | Stack |
 |---|---|---|
-| [**TiendaMenu**](https://github.com/al3w0f205/TiendaMenu) | Store simulation with interactive console menus | C |
-| [**Kora**](https://github.com/al3w0f205/pathfinder) | Interactive pathfinding visualizer — compares search algorithms on a grid | Django, Python |
-| [**GrooveOS**](https://github.com/al3w0f205/GrooveOS-OLD-) | Personal OS/environment experiments | C |
+| [**TiendaMenu**](https://github.com/al3w0f205/TiendaMenu) | Store simulation with interactive console menus | `C` |
+| [**Kora**](https://github.com/al3w0f205/pathfinder) | Interactive pathfinding visualizer — compares search algorithms on a grid | `Django` `Python` |
+| [**GrooveOS**](https://github.com/al3w0f205/GrooveOS-OLD-) | Personal OS/environment experiments | `C` |
 
 ---
 
@@ -81,6 +83,16 @@ interests:
 - **Docker & containers** — migrating homelab services from bare LXC to proper container workflows
 - **Backend web development** — REST APIs, databases, and server-side architecture
 - **Data structures & algorithms** — building fundamentals for technical interviews
+
+---
+
+## 🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/al3w0f205/al3w0f205/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/al3w0f205/al3w0f205/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/al3w0f205/al3w0f205/output/github-snake.svg" />
+</picture>
 
 ---
 
