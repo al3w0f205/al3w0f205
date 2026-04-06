@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm al3w0f205
+# I'm al3w0f205
 
 **Software Engineering student · Quito, Ecuador · He/Him**
 
