@@ -30,7 +30,7 @@
 ---
 
 <div align="center">
-  <b>Software Engineering student · Backend & DevOps · Homelab on Proxmox</b>
+  <b>Software Engineering student</b>
 </div>
 
 ---
