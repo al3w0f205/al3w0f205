@@ -8,7 +8,7 @@
 
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
   <tr>
-    <td><img src="udla-logo.png" height="40" alt="UDLA" /></td>
+    <td><img src="assetsudla-logo.png" height="40" alt="UDLA" /></td>
     <td>&nbsp;&nbsp;<a href="https://www.udla.edu.ec">Universidad de las Américas</a> &nbsp;·&nbsp; 📍 Quito, Ecuador</td>
   </tr>
 </table>
@@ -57,7 +57,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=al3w0f205&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=al3w0f205&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
