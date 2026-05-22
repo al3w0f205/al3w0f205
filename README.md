@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=540&lines=Hey%2C+I'm+Alejandro+%F0%9F%91%8B;Backend+%26+DevOps+Enthusiast;I+build+things+from+scratch;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=540&lines=Hey%2C+I'm+Alejandro;Backend+%26+DevOps+Enthusiast;I+build+things+from+scratch;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -9,7 +9,7 @@
 <table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
   <tr>
     <td><img src="assetsudla-logo.png" height="40" alt="UDLA" /></td>
-    <td>&nbsp;&nbsp;<a href="https://www.udla.edu.ec">Universidad de las Américas</a> &nbsp;·&nbsp; 📍 Quito, Ecuador</td>
+    <td>&nbsp;&nbsp;<a href="https://www.udla.edu.ec">Universidad de las Américas</a> &nbsp;·&nbsp; Quito, Ecuador</td>
   </tr>
 </table>
 
@@ -35,15 +35,15 @@
 
 ---
 
-## ⚡ Quick About Me
-* 🔭 **Current Focus:** Engineering backend architectures and administering self-hosted Proxmox environments.
-* 🌱 **Learning Path:** Advanced systems programming in `C`, network protocols, and container orchestration workflows.
-* 💬 **Ask me about:** Linux server administration, Docker virtualization, and script automation.
-* ⚡ **Fun fact:** I love configuring home server setups and automating local pipelines.
+## About Me
+* **Current Focus:** Engineering backend architectures and administering self-hosted Proxmox environments.
+* **Learning Path:** Advanced systems programming in C, network protocols, and container orchestration workflows.
+* **Technical Interests:** Linux server administration, Docker virtualization, and script automation.
+* **Self-Hosting:** Configuration and optimization of home server infrastructures.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:**
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -62,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -85,7 +85,7 @@
 
 ---
 
-## 🔧 Featured Projects
+## Featured Projects
 
 <div align="center">
   <table border="0" cellspacing="10" cellpadding="0">
