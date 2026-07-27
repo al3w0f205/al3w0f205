@@ -33,16 +33,17 @@
     <tr>
       <td valign="top">
         <a href="https://github.com/stats-organization/github-stats-extended">
-          <img src="https://github-stats-extended.vercel.app/api?username=al3w0f205&theme=tokyonight&v=4" height="195" alt="Estadísticas de GitHub de al3w0f205" />
+          <img src="https://github-stats-extended.vercel.app/api?username=al3w0f205&theme=tokyonight&v=6" width="438" alt="Estadísticas de GitHub de al3w0f205" />
         </a>
       </td>
       <td valign="top">
         <a href="https://github.com/stats-organization/github-stats-extended">
-          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=al3w0f205&layout=compact&theme=tokyonight&v=3" height="195" alt="Lenguajes más usados" />
+          <img src="https://github-stats-extended.vercel.app/api/top-langs?username=al3w0f205&layout=compact&theme=tokyonight&langs_count=8&v=5" width="300" alt="Lenguajes más usados" />
         </a>
       </td>
     </tr>
   </table>
+
 </div>
 
 
