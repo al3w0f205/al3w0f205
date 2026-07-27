@@ -117,7 +117,8 @@
 [![LinkedIn](assets/linkedin.svg?v=2)](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/)
 [![Discord](assets/discord.svg?v=2)](https://discord.com/users/457026491197292546)
 [![Instagram](assets/instagram.svg?v=2)](https://www.instagram.com/al3w0f/)
-[![Email](assets/gmail.svg?v=2)](mailto:miguel.alejandro.figueroa@gmail.com)
+[![Email](assets/gmail.svg?v=2)](https://mail.google.com/mail/?view=cm&fs=1&to=miguel.alejandro.figueroa@gmail.com)
+
 
 
 
