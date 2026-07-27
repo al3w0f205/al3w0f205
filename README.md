@@ -1,30 +1,43 @@
-# Alejandro Figueroa
-**Software Engineering Student & Backend Developer**
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=al3w0f205)](https://github.com/stats-organization/github-stats-extended)
 
-[LinkedIn](https://www.linkedin.com/in/alejandro-figueroa-6248b2340/) • [Discord](https://discord.com/users/457026491197292546) • Universidad de las Américas (UDLA)
+<table>
+  <tr>
+    <td>
+      <pre>
+ █████╗ ██╗     ██████╗ ██╗    ██╗ ██████╗ ███████╗
+██╔══██╗██║     ╚════██╗██║    ██║██╔═████╗██╔════╝
+███████║██║      █████╔╝██║ █╗ ██║██║██╔██║█████╗  
+██╔══██║██║      ╚═══██╗██║███╗██║████╔╝██║██╔══╝  
+██║  ██║███████╗██████╔╝╚███╔███╔╝╚██████╔╝██║     
+╚═╝  ╚═╝╚══════╝╚═════╝  ╚══╝╚══╝  ╚═════╝ ╚═╝     
+      </pre>
+    </td>
+    <td>
+      <h3>al3w0f</h3>
+      <ul>
+        <li>Estudiante de Ingeniería de Software en la UDLA.</li>
+        <li>Enfoque en desarrollo backend, además de infraestructura DevOps.</li>
+        <li>Uso principal de tecnologías como Python, C, así como scripting en Bash.</li>
+        <li>Gestión de entornos homelab mediante Proxmox, en conjunto con contenedores LXC.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-## About Me
-I am focused on building robust backend systems and managing self-hosted infrastructure. I enjoy solving complex problems from scratch and constantly refining my development workflows.
+<div align="center">
+  <img src="assetsudla-logo.png" alt="Logo UDLA" width="150" />
+</div>
 
-- **Current Focus:** Engineering backend architectures and administering self-hosted Proxmox environments.
-- **Learning Path:** Advanced systems programming in C, network protocols, and container orchestration workflows.
-- **Technical Interests:** Linux server administration, Docker virtualization, and script automation.
-- **Self-Hosting:** Configuration and optimization of home server infrastructures.
+<br>
 
-## Tech Stack
-- **Languages:** C, Python, Bash, HTML/CSS
-- **Infrastructure:** Linux, Proxmox, Docker, systemd
-- **Tools & Databases:** Git, PostgreSQL
+### Tecnologías de Desarrollo
+* **Lenguajes:** Python, C, Bash, JavaScript.
+* **Frameworks:** Django.
+* **Infraestructura:** Proxmox, LXC, Coolify, Cloudflare, systemd.
 
-## Featured Projects & Open Source
-
-- **[AutoSubs (Contributor)](https://github.com/al3w0f205/auto-subs)** — On-device AI subtitle generation integrating directly with professional editing suites like DaVinci Resolve and Premiere.
-- **[Nubex](https://github.com/al3w0f205/nubex)** — A comprehensive business management system architected to handle full-scale operations and workflows.
-- **[Forms Automator](https://github.com/al3w0f205/forms-automator)** — A robust automation utility designed to streamline data entry and significantly reduce manual operational workloads.
-- **[StudyHub](https://github.com/al3w0f205/StudyHub)** — A full-stack educational web application showcasing robust front-end and back-end integration.
-- **[TiendaMenu](https://github.com/al3w0f205/TiendaMenu)** — A high-performance management system built in C, demonstrating low-level memory management and systems programming.
-
----
-*Always learning, always building. Open to collaborating on interesting projects.*
+### Proyectos Destacados
+* **Kora:** Visualizador interactivo de algoritmos de búsqueda.
+* **GrooveOS:** Bot modular integrado con la API de Groq, desplegado mediante servicios persistentes.
+* **TiendaMenu:** Aplicación de simulación comercial estructurada mediante menús interactivos en consola.
